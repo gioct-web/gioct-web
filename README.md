@@ -3,7 +3,7 @@
 ### Desenvolvedora Python em formação
 
 
-Me chamo Giovanna C. Techio, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio e me formei em Técnico em Informática Avançada pelo ITB (Instituto Técnico). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e estou no segundo semestre. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[Linkedln](hhttps://www.linkedin.com/in/giovanna-techio-62553325b/)" e Github, onde eu publico meu avanço nas tecnologias em que tenho conhecimento e agora também o meu avanço como iniciante em PYTHON e BACKEND.
+🔎 Me chamo Giovanna C. Techio, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio e me formei em Técnico em Informática Avançada pelo ITB (Instituto Técnico). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e estou no segundo semestre. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[Linkedln](hhttps://www.linkedin.com/in/giovanna-techio-62553325b/)" e Github, onde eu publico meu avanço nas tecnologias em que tenho conhecimento e agora também o meu avanço como iniciante em PYTHON e BACKEND.
 
 ---
 
